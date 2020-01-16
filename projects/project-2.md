@@ -4,7 +4,9 @@ type: project
 image: images/spongegar.png
 title: LegoFlash: Attack of the Spongegars
 permalink: projects/legoflash
-#LegoFlash: Attack of the Spongegars
+
+# LegoFlash: Attack of the Spongegars
+
 date: 2018-03-23
 labels:
   - Java
