@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/spongegar.png
-title: B. LegoFlash Attack of the Spongegars
+title: LegoFlash Attack of the Spongegars
 permalink: projects/legoflash
 # All dates must be XXXX-XX-XX format!
 date: 2018-03-23
@@ -17,7 +17,7 @@ projecturl:
   <img class="ui image" src="../images/spongegar.png">
 </div>
 
-My second project on display is called LegoFlash: Attack of the Spongegar's. Main character LegoFlash must run away using his super speed to flee from the attacking spongegars. However, how do you win the game? Using your uber-broken moveset (spacebar) you must create a portal where the spongegars will teleport to a prison cell where they cannot escape. 
+This second project is called LegoFlash: Attack of the Spongegar's. Main character LegoFlash must run away using his super speed to flee from the attacking spongegars. However, how do you win the game? Using your uber-broken moveset (spacebar) you must create a portal where the spongegars will teleport to a prison cell where they cannot escape. 
 
 The player must use the default keyboard arrow keys to move LegoFlash around the map. The map is based off of Mojangs hot single of the year: Minecraft, where minecraft lava blocks were used as the walls of the game (Please don't copyright strike me). When the space bar is press, LegoFlash will spawn a portal, teleporting him to a random location on the map, if a spongegar were to touch the portal, the gar would be also teleported. The game ends when all the gars are in the designated prison cell. During the creation of this project, I learned about collision detection and how to properly execute the task of not letting objects through walls. 
 
