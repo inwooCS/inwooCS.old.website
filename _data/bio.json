@@ -53,7 +53,6 @@
         "C++",
         "Java",
         "Javascript",
-       
       ]
     },
     {
@@ -64,7 +63,7 @@
         "Windows",
         "Git/GitHub",
       ]
-    }
+    },
   ],
   "education": [
     {
@@ -76,7 +75,7 @@
       "gpa": "3.4",
       "courses": "ICS 314, ICS 355" [
       ]
-    },
+    }
   ],
   "work": [
     {
