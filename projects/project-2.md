@@ -4,12 +4,13 @@ type: project
 image: images/spongegar.png
 title: LegoFlash: Attack of the Spongegars
 permalink: projects/legoflash
-# LegoFlash: Attack of the Spongegars
+# All dates must be XXXX-XX-XX format!
 date: 2018-03-23
 labels:
   - Java
   - Gaming on EZ
 summary: I created another low budget EZ Class video game that ran on Java. The protagonist Lego Flash must run away from the crazy spongegars by baiting them into the he creates. ICS 111
+projecturl:
 ---
 
 <img class="ui medium right floated rounded image" src="../images/spongegar.png">
