@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-# All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+image: images/knuckles.jpg
+title: Knuckles Meme 
+permalink: projects/knucklesmeme
+# All dates must be 2018-02-12 format!
+date: 2018-02-12
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Gaming on EZ 
+summary: I created a low budget EZ Class video game that ran on Java. The protagonist (Knuckles) must smell the queen as much as possible within 60 seconds. 
+projecturl: https://www.youtube.com/watch?v=Qnfj9sjCO0o
 ---
 
 <div class="ui small rounded images">
