@@ -2,10 +2,10 @@
   "basics": {
     "name": "In Woo Park",
     "label": "Student",
-    "picture": "https://inwoocs.github.io/images/me.png",
+    "picture": "https://inwooCS.github.io/images/me.png",
     "email": "inwoo@hawaii.edu",
     "phone": "",
-    "website": "https://inwoocs.github.io",
+    "website": "https://inwooCS.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
