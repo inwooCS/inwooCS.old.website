@@ -13,7 +13,9 @@ summary: I created another low budget EZ Class video game that ran on Java. The 
 projecturl:
 ---
 
-<img class="ui medium right floated rounded image" src="../images/spongegar.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/spongegar.png">
+</div>
 
 My second project on display is called LegoFlash: Attack of the Spongegar's. Main character LegoFlash must run away using his super speed to flee from the attacking spongegars. However, how do you win the game? Using your uber-broken moveset (spacebar) you must create a portal where the spongegars will teleport to a prison cell where they cannot escape. 
 
