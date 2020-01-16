@@ -4,7 +4,7 @@ type: project
 image: images/spongegar.png
 title: LegoFlash: Attack of the Spongegars
 permalink: projects/legoflash
-# All dates must be YYYY-MM-DD format!
+
 date: 2018-03-23
 labels:
   - Java
