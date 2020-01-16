@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/spongegar.png
-title: LegoFlash Attack of the Spongegars
+title: 2. LegoFlash Attack of the Spongegars
 permalink: projects/legoflash
 # All dates must be XXXX-XX-XX format!
 date: 2018-03-23
