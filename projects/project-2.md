@@ -1,26 +1,26 @@
 ---
 layout: project
 type: project
-image: images/spongegar.png
-title: LegoFlash: Attack of the Spongegars
-permalink: projects/legoflash
-# All dates must be XXXX-XX-XX format!
-date: 2018-03-23
+image: images/knuckles.jpg
+title: Knuckles Meme 
+permalink: projects/knucklesmeme
+# All dates must be 2018-02-12 format!
+date: 2018-02-12
 labels:
   - Java
-  - Gaming on EZ
-summary: I created another low budget EZ Class video game that ran on Java. The protagonist Lego Flash must run away from the crazy spongegars by baiting them into the he creates. ICS 111
-projecturl:
+  - Gaming on EZ 
+summary: I created a low budget EZ Class video game that ran on Java. The protagonist (Knuckles) must smell the queen as much as possible within 60 seconds. ICS 111
+projecturl: 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/spongegar.png">
+  <img class="ui image" src="../images/knuckles.jpg">
 </div>
 
-My second project on display is called LegoFlash: Attack of the Spongegar's. Main character LegoFlash must run away using his super speed to flee from the attacking spongegars. However, how do you win the game? Using your uber-broken moveset (spacebar) you must create a portal where the spongegars will teleport to a prison cell where they cannot escape. 
+My first project on display is called Knuckles Meme. Back in early 2018, I was taked in creating my first ever video game on Java. The task itself was very difficult as I had little-to-no knowledge on coding games. However, with the help of practice and the EZ directory, the project I envisioned to complete was finished. 
 
-The player must use the default keyboard arrow keys to move LegoFlash around the map. The map is based off of Mojangs hot single of the year: Minecraft, where minecraft lava blocks were used as the walls of the game (Please don't copyright strike me). When the space bar is press, LegoFlash will spawn a portal, teleporting him to a random location on the map, if a spongegar were to touch the portal, the gar would be also teleported. The game ends when all the gars are in the designated prison cell. During the creation of this project, I learned about collision detection and how to properly execute the task of not letting objects through walls. 
+The player must physically press on the arrow keys with their mouse (or just the arrow keys on their keyboard) in order to move knuckles in any direction they please. The goal of the game was move knuckles towards the queen in order for him to smell her. There is a score count and a time limit of 60 seconds. The counter when up if knuckles were to have collided with the queen. During the creation of this project, I learned about user input (mouse or keys) and how they can be used to translate to player movement. 
 
 Created Spring of 2018, ICS 111
 
-You can view the game on my [YouTube Channel](https://www.youtube.com/watch?v=_W_zGYd9qrY).
+You can view the game on my [YouTube Channel](https://www.youtube.com/watch?v=Qnfj9sjCO0o).
