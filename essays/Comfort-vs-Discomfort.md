@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Comfort versus Discomfort 
+title: Comfort vs Discomfort 
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
 labels:
