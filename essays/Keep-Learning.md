@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui top aligned large image" src="../images/software.jpg">
+<img class="ui top aligned large image" src="../images/FFT.jpg">
 
 ## Food For Thought
 
