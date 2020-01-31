@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: You can't help a hopeless question 
+title: You Can't Help a Hopeless Question 
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-23
+date: 2020-01-30
 labels:
   - Asking Questions
   - Software Engineering
