@@ -15,6 +15,7 @@ labels:
 ## Talking In Circles 
 It is important to understand that asking a question is a skill that needs to be learned. In a professional work environment, you will encounter a situation where you will not know how to solve a particular problem. If you were to ask a general question, you will in turn receive a general response. This is why asking smart questions is important. Asking smart questions remove room for error, redundancy, and provides an efficient exchange in information. Talking in circles will lead to no where, and asking redundant questions that already have been answered on the internet is a waste of time. To maximize efficiency, stop asking dumb questions, and ask smarter questions.
 
+
 <img class="ui top aligned large image" src="../images/bigbrain.jpg"> 
 ## Role Models 
 
@@ -23,6 +24,7 @@ In this first example, the developer asks, "What is the difference between using
 
 [Prime Example 2](https://stackoverflow.com/questions/7520432/what-is-the-difference-between-and-equals-in-java).
 This is another example of a smart question. The developer asks, "what is the difference between == and .equals()?" They mention further that they understand that == is a reference comparison and .equals() evaluates to the comparison values in the objects, but they are still confused on the concept. This is another example of a smart question because not only is the question simple and concise, but also provides context to the question and provides insight that they somewhat answered the question, but would like further explanation. You can also infer that the question was a smart one due to the answers in the thread. They all discuss the relevant differences between the two and even provide examples (code) to explain the concept further. 
+
 
 <img class="ui top aligned large image" src="../images/clones.jpg"> 
 ## Redundancies
