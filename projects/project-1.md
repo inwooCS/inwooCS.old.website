@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/knuckles.jpg
+image: images/knucklesmain.jpg
 title: Knuckles Meme 
 permalink: projects/knucklesmeme
 # All dates must be 2018-02-12 format!
