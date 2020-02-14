@@ -20,5 +20,5 @@ So how would you teach someone how to code? Would you enforce coding standards t
 
 <img class="ui top aligned large image" src="../images/thinking.jpg">
 
-Obviously, this could be interpreted as a personal issue. It may be possible that other software developers agree with the notion that coding standards are necessary for learning a new language, but that doesn't solve the inheret problem. We code because we want to make life easier. In order to solve a problem, we must tell a computer how to solve that problem the easiest way possible. Having coding standards after the initial introduction of the language just hinders the ability of a developer to learn. They have their own way of learning, who are we to tell them their way is wrong? 
+Obviously, this could be interpreted as a personal issue. It may be possible that other software developers agree with the notion that coding standards are necessary for learning a new language, but that doesn't solve the inherent problem. We code because we want to make life easier. In order to solve a problem, we must tell a computer how to solve that problem the easiest way possible. Having coding standards after the initial introduction of the language just hinders the ability of a developer to learn. They have their own way of learning, who are we to tell them their way is wrong? 
 
