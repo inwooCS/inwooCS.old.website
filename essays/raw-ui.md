@@ -11,6 +11,7 @@ labels:
 ---
 
 <img class="ui top aligned large image" src="https://customerthink.com/wp-content/uploads/front-end-developer-1.png">
+
 ## What is a Front-End Developer?
 To consider yourself to be a front-end developer, you have to understand CSS. This is because CSS is a core part of every website along with HTML and Javascript. However, that doesn't mean raw CSS and HTML doesn't come with its problems. Raw CSS and HTML have issues of being border-line outdated in terms of user easibility, but provides maximum user flexibility.
 So which is it, do I learn raw CSS/HTML or stick with UI Frameworks?
