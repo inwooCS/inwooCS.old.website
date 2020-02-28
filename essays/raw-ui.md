@@ -24,4 +24,4 @@ Raw CSS/HTML is hard to learn and hard to master, whilst UI Frameworks are easie
 Let's be honest. Nobody wants to learn raw HTML/CSS. Raw CSS/HTML is terrible to look at in terms of code cleaniness and readability. However, you still have to learn it. As stated before, if you want to be a front-end developer, you need to learn native CSS and HTML. That doesn't mean you can't use UI Frameworks for your website. The trend for website design has changed from a homepage cluttered with useless information, into simple and clean designs. Usually consisting of big pictures that take up the entire screen. If the simple framework of, 'topmenu > middle picture > foote' works, might as well just use a UI Framework such as Semantic UI that accomplishes the design in under 20 minutes.  
 
 
-<img class="ui top align large image" src="../images/thinking.jpg>
+<img class="ui top align large image" src="https://media.npr.org/assets/img/2013/10/17/sleepingbrain_wide-e40290d47221863e13990f78f86b983781d5673e-s800-c85.jpeg">
