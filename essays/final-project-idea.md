@@ -7,7 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-Authors: Jake Hiji & In Woo Park 
+Authors: Jake Hijirida & In Woo Park 
 
 ## Overview 
 The Problem:
