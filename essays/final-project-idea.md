@@ -2,11 +2,12 @@
 layout: essay
 type: essay
 title: "Final Project Idea"
-date: 2019-11-05
+date: 2019-03-31
 labels:
   - Software Engineering
   - Meteor
 ---
+Authors: Jake Hiji & In Woo Park 
 
 ## Overview 
 The Problem:
