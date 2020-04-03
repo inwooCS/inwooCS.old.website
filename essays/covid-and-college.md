@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Covid and College"
+title: "Freedom is taken for granted"
 date: 2019-04-1
 labels:
   - College
@@ -28,3 +28,5 @@ Covid 19 has taught me a few things about myself, family, friends, and my commun
 
 ## So What Now?
 All we can do now is continue our lives whilst taking precautions. We shouldn't let the quarantine or virus defeat our capabilities as people. We survived this long because humans can adapt. So we should adapt to the situation by staying home and flattening the curve. 
+
+Here is my go to media source on 'FACTS' about [Covid 19](https://www.youtube.com/watch?v=hMopOpiNB1s).
