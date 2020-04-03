@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: "Freedom is taken for granted"
-date: 2019-04-1
+title: "Please End my Suffering"
+date: 2019-04-2
 labels:
+  - Covid
   - College
-  - Covid 19
-  - Health
 ---
 
 <img class="ui large  center floated image" src="../images/uhmanoa.jpg">
@@ -15,7 +14,6 @@ labels:
 Before disaster struck the United States, I spent everyday doing, "nothing". Like clock-work, I followed the same routine for weeks; wake up, school, dinner, work, ICSpace, home. You could argue I wasn't really doing, "nothing" because I spent every hour of the day for a task I had to complete, but I disagree. The time I spent was for nothing because those tasks were not the things I wanted to do. I wanted to explore the world. I wanted to enjoy the company of friends. I wanted to prepare myself for the future. Unfortunately, those goals will have to stay on hold until the pandemic blows over. 
 
 ## What changed? 
-
 The obvious change is my daily routine. Now that quarantine started, I am not able to go outside unless I'm shopping for groceries  because my role in society is not, "essential." I've been waking up late because all classes went virtual so it is very easy to fake attendance. I've been spending more time sitting down on my computer due to the lack of commuting to school and work. All in all, my daily routine is very unhealty and I am considering purchasing a desk where you have to stand in order to help my deteriorating health. 
 
 ## The Truth 
