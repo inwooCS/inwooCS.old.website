@@ -6,6 +6,7 @@ date: 2020-04-2
 labels:
   - Covid
   - College
+  - Health
 ---
 
 <img class="ui large  center floated image" src="../images/uhmanoa.jpg">
