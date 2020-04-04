@@ -9,7 +9,7 @@ labels:
 ---
 Authors: Jake Hijirida & In Woo Park 
 
-## Overview 
+## Overview  
 The Problem:
 Students purchase books, calculators, unused folders, and any school related items for classes, once you finish the semester and pass the class, you are left with the items purchased, and no concrete way of getting your money back, other than selling over some third party application, or selling it back to the bookstore for 50%+ less than you paid for it.
 
