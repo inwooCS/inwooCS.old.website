@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Please End my Suffering"
-date: 2020-04-2
+date: 2020-04-02
 labels:
   - Covid
   - College
