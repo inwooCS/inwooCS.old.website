@@ -9,7 +9,7 @@ labels:
   - Health
 ---
 
-<img class="ui large  center floated image" src="../images/uhmanoa.jpg">
+<img class="ui large center left image" src="../images/uhmanoa.jpg">
 
 ## Prologue  
 Before disaster struck the United States, I spent everyday doing, "nothing". Like clock-work, I followed the same routine for weeks; wake up, school, dinner, work, ICSpace, home. You could argue I wasn't really doing, "nothing" because I spent every hour of the day for a task I had to complete, but I disagree. The time I spent was for nothing because those tasks were not the things I wanted to do. I wanted to explore the world. I wanted to enjoy the company of friends. I wanted to prepare myself for the future. Unfortunately, those goals will have to stay on hold until the pandemic blows over. 
