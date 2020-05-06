@@ -84,13 +84,14 @@
   ],
   "work": [
     {
-      "institution": "Telecommunications and Social Informatics Program (TASI)",
-      "area": "Cyber Security and Data Science",
+      "company": "Telecommunications and Social Informatics Program (TASI)",
       "startDate": "2020-03-15",
       "endDate": "Present",
       "position": "Systems Support Assistant 1",
+      "highlights": [
+          "Parallel Processing, R Linkage, Data Science, Health Care"
+        ]
     },
-    
   ],
   "volunteer": [
     {
