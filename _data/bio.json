@@ -78,14 +78,14 @@
       "endDate": "Present",
       "gpa": "3.4",
     "courses": [ 
-      "ICS 314, ICS 355" 
+      "ICS 314, ICS 355" ,
       ]
     },
   ],
   "work": [
     {
       "institution": "Telecommunications and Social Informatics Program (TASI)",
-      "area": "Cyber Security and Data Science"
+      "area": "Cyber Security and Data Science",
       "startDate": "2020-03-15",
       "endDate": "Present",
       "position": "Systems Support Assistant 1",
@@ -93,9 +93,9 @@
     
   ],
   "volunteer": [
-    "instution": "Jesus Baptist Church of Hawaii"
-    "position": "Broadcast Team / Choir Team"
-    "description": "Due to current events, assist in hosting sermons through live streams"
+    "instution": "Jesus Baptist Church of Hawaii",
+    "position": "Broadcast Team / Choir Team",
+    "description": "Due to current events, assist in hosting sermons through live streams",
   ],
   "awards": [
   
