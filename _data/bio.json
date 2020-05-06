@@ -108,12 +108,14 @@
       "title": "Manoa Academic Scholarship",
       "date": "2017-Present",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous university curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school.",
-    }
+      "highlights": [
+        "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous university curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school.",
+     ]
+    },
   ],
   "references": [
     {
-      "name": "  Available Upon Request",
+      "name": "               Available Upon Request",
     }
   ]
 }
