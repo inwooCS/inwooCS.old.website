@@ -93,9 +93,11 @@
     
   ],
   "volunteer": [
-    "institution": "Jesus Baptist Church of Hawaii",
-    "position": "Broadcast Team / Choir Team",
-    "description": "Due to current events, assist in hosting sermons through live streams",
+    {
+      "institution": "Jesus Baptist Church of Hawaii",
+      "position": "Broadcast Team / Choir Team",
+      "description": "Due to current events, assist in hosting sermons through live streams",
+    },
   ],
   "awards": [
   
@@ -104,6 +106,6 @@
     {
       "name": "Thomas Pali",
       "contact": "Available Upon Request"
-    }
+    },
   ]
 }
