@@ -96,7 +96,7 @@
   "volunteer": [
     {
       "organization": "Jesus Baptist Church of Hawaii",
-      "website": "http://www.jbch.org/kor/index.php"
+      "website": "http://www.jbch.org/kor/index.php",
       "position": "Broadcast Team / Choir Team",
       "highlights": [
         "Due to current events, assist in hosting sermons through live streams",
@@ -108,12 +108,12 @@
       "title": "Manoa Academic Scholarship",
       "date": "2017-Present",
       "awarder:" "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous university curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous university curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school.",
     }
   ],
   "references": [
     }
-      "name": "  Available Upon Request"
+      "name": "  Available Upon Request",
     },
   ]
 }
