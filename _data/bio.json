@@ -44,11 +44,6 @@
       "keywords": [
       ]
     },
-    {
-      "name": "Virtual Reality",
-      "keywords": [
-      ]
-    },
   ],
   "skills": [
     {
@@ -59,6 +54,8 @@
         "C++",
         "Java",
         "Javascript",
+        "R",
+        "Python",
       ]
     },
     {
@@ -86,19 +83,27 @@
     },
   ],
   "work": [
-
+    {
+      "institution": "Telecommunications and Social Informatics Program (TASI)",
+      "area": "Cyber Security and Data Science"
+      "startDate": "2020-03-15",
+      "endDate": "Present",
+      "position": "Systems Support Assistant 1",
+    },
     
   ],
   "volunteer": [
-    
+    "instution": "Jesus Baptist Church of Hawaii"
+    "position": "Broadcast Team / Choir Team"
+    "description": "Due to current events, assist in hosting sermons through live streams"
   ],
   "awards": [
   
   ],
   "references": [
     {
-      "name": " Available upon request",
-      "reference": ""
+      "name": "Thomas Pali",
+      "contact": "Available Upon Request"
     }
   ]
 }
