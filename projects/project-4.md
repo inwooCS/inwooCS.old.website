@@ -17,7 +17,7 @@ projecturl:
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/landing.jpg">
+  <img class="ui image" src="../images/landing.png">
 </div>
 
 This team project is called Geostudy. The mission for this project was to use our software development knowledge we learned that semester in order to create a website based on the choice provided by our Professor. For our team, we were tasked with building a website on study spots around UH Manoa campus. 
