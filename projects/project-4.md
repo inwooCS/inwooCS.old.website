@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/knuckles.jpg
+image: images/geostudytitle.jpg
 title: Geo Study 
 permalink: projects/geostudy
 # All dates must be 2018-02-12 format!
