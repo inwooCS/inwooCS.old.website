@@ -16,7 +16,7 @@ summary: Tasked with building a website, our team built a site based on study sp
 projecturl: 
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/landing.png">
 </div>
 
