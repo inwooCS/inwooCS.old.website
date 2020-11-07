@@ -86,7 +86,21 @@
       "endDate": "Present",
       "gpa": "3.4",
     "courses": [ 
-      "ICS 314, ICS 355" ,
+      {
+        "ICS 111 - Introduction to Computer Science I",
+        "ICS 141 - Discrete Mathematics for Computer Science I",
+        "ICS 211 - Introduction to Computer Science II",
+        "ICS 212 - Program Structure",
+        "ICS 222 - Basic Concepts of Comp. Sci",
+        "ICS 241 - Discrete Mathematics for Computer Science II",
+        "ICS 311 - Algorithms
+        "ICS 314 - Software Engineering I", 
+        "ICS 321 - Database Systems I",
+        "ICS 332 - Operating Systems",
+        "ICS 355 - Security and Trust I" ,
+        "ICS 423 - Data Security & Cryptography I",
+        "ICS 426 - Computer System Security",
+      }
       ]
     },
   ],
@@ -96,14 +110,17 @@
       "startDate": "2020-03-15",
       "endDate": "Present",
       "position": "Systems Support Assistant 1",
+      "website": "https://ssri.manoa.hawaii.edu/tasi-phidc/",
       "highlights": [
-          "Parallel Processing, R Linkage, Data Science, Health Care"
+          "Entry Level IT , R, Data Science, Database, Health Care"
         ]
     },
   ],
   "volunteer": [
     {
       "organization": "Jesus Baptist Church of Hawaii",
+      "startDate": "2009",
+      "endDate": "Present",
       "website": "http://www.jbch.org/kor/index.php",
       "position": "Broadcast Team / Choir Team",
       "highlights": [
@@ -114,14 +131,16 @@
   "awards": [
     {
       "title": "Manoa Academic Scholarship",
-      "date": "2017-Present",
+      "startDate": "2017",
+      "endDate": "Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous university curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school.",
     },
   ],
   "references": [
     {
-      "name": "Available Upon Request",
+      "": "",
+      "summary": "Available Upon Request",
     }
   ]
 }
