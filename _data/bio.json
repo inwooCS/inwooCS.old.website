@@ -54,7 +54,11 @@
         "C++",
         "Java",
         "Javascript",
+        "HTML",
         "R",
+        "Semantic UI",
+        "SQL",
+        "Meteor.js",
         "Python",
       ]
     },
@@ -63,9 +67,13 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Linux",
+        "Unix",
         "Windows",
         "Git/GitHub",
-        "Emacs",
+        "Eclipse",
+        "Intelli J",
+        "VirtualBox",
       ]
     },
   ],
