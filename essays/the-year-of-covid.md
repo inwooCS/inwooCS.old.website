@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "The Year of COVID"
-date: 2020-04-02
+date: 2020-11-17
 labels:
   - Covid
   - College
@@ -31,7 +31,7 @@ Due to the (now) heavily enforced quarantine, I had to take on more responsibili
 I am still the head broadcast manager for my church. (November 2020)
 
 ## Revelations
-Covid 19 has taught me a few things about myself, family, friends, and my community. Covid has taught me that time is the most valuable resource. Time is something we will never get back. Therefore, if we continue to waste everyday doing the same routine that sucks, we might as well be dead because we are not living. Covid has also taught me that my family hates cooking. I didn't notice it before, but now it's clear. We rather eat out than cook 3 meals a day. Covid has also taught me that I chose the right friends (I'll skip this explanation because it is a bit personal). Finally, COVID 19 has taught me that the average person in my community is straight up stupid. Hoarding all the masks and toilet paper so you can price gouge it at a higher price is the dumbest decision you can do and it is straight up illegal. Every apocalyptic movie is wrong about the average American citizen. The majority of people will quarantine and follow professional suggestion, the minority of people will exploit scarce resource, show that they're racist, or believe it's a fake pandemic. What a joke. 
+Covid 19 has taught me a few things about myself, family, friends, and my community. Covid has taught me that time is the most valuable resource. Time is something we will never get back. Therefore, if we continue to waste everyday doing the same routine that sucks, we might as well be dead because we are not living. Covid has also taught me that my family hates cooking. I didn't notice it before, but now it's clear. We rather eat out than cook 3 meals a day. Covid has also taught me that I chose the right friends (I'll skip this explanation because it is a bit personal). Finally, COVID 19 has taught me that the average person in my community is straight up stupid. Hoarding all the masks and toilet paper so you can price gouge it at a higher price is the dumbest decision you can do and it is straight up illegal. Every apocalyptic movie is wrong about the average American citizen. The majority of people will quarantine and follow professional suggestion, the minority of people will exploit scarce resource, show that they're racist, or believe it's a fake pandemic. What a joke. (March 2020)
 
 My previous entry aged like fine wine. It is currently November 2020 or 8 months since the first day of quarantine and I cannot believe how many people are ignorant to the pandemic. It has been statiscally, and anecdotally proven that masks work. The true purpose of masks are not to protect yourself, but to protect others. It is unfortunate however, the majority of Americans are self-centered and cannot grasp this concept. If everyone wore masks and respected the social distancing laws in the first two months, we would have a full recovery in no time. It is very sad. The only good thing that came out of quarantine was that I had more free time to do things I've always wanted to do such as learn a new instrument, start some side-coding projects, and exercise. (November 2020) 
 
