@@ -50,7 +50,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "POSIX C",
         "C++",
         "Java",
         "Javascript",
@@ -58,6 +58,7 @@
         "R",
         "Semantic UI",
         "SQL",
+        "React",
         "Meteor.js",
         "Python",
       ]
@@ -70,8 +71,8 @@
         "Linux",
         "Unix",
         "Windows",
+        "Ubuntu",
         "Git/GitHub",
-        "Eclipse",
         "Intelli J",
         "VirtualBox",
       ]
