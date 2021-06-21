@@ -6,10 +6,10 @@
     "email": "inwoo@hawaii.edu",
     "phone": "",
     "website": "https://inwooCS.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -56,40 +56,68 @@
         "Javascript",
         "HTML",
         "R",
-        "Semantic UI",
         "SQL",
-        "React",
-        "Meteor.js",
         "Python",
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets",
+      "level": "",
+      "keywords": [
+        "VirtualBox",
+        "React",
+        "Ghidra",
+        "GDB",
+        "Git",
+        "Github",
+        "IntelliJ",
+        "Volatility",
+        "Ubiquiti",
+        "OpenVAS",
+        "OpenKM",
+        "Meteor.js"
+        "Semantic UI",
+      ]
+    },
+    {
+      "name": "OS",
       "level": "",
       "keywords": [
         "MacOS",
         "Linux",
         "Unix",
         "Windows",
+        "CentOS",
         "Ubuntu",
-        "Git/GitHub",
-        "Intelli J",
-        "VirtualBox",
       ]
     },
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
-      "studyType": "B.A.",
-      "startDate": "2017-09-01",
-      "endDate": "Present",
-      "gpa": "3.3",
-    
+       "institution": "University of Hawaii, Honolulu, Hi",
+       "area": "Computer Science (expected Spring, 2023)",
+       "studyType": "M.S.",
+       "startDate": "2021-09-01",
+       "endDate": "Present",
+       "gpa": "N/A",
+    },
+    {
+       "institution": "University of Hawaii, Honolulu, Hi",
+        "area": "Computer Science Cyber Security Focus",
+        "studyType": "B.A.",
+        "startDate": "2017-09-01",
+        "endDate": "May 2021",
+        "gpa": "3.3",
+       ]
+      },
+    ],
     "courses": [ 
       
+        "EE 491F - Software Reverse Engineering",
+        "EE  406 - Intro to Computer & Network Security",
+        "ICS 451 - Data Networks",
         "ICS 426 - Computer System Security",
+        "ICS 425 - Computer Security and Ethics,"
         "ICS 423 - Data Security & Cryptography I",
         "ICS 355 - Security and Trust I" ,
         "ICS 332 - Operating Systems",
@@ -108,13 +136,22 @@
   ],
   "work": [
     {
-      "company": "Telecommunications and Social Informatics Program (TASI)",
-      "startDate": "2020-03-15",
+       "company": "Telecommunications and Social Informatics Program (TASI)",
+      "startDate": "June 2021",
       "endDate": "Present",
-      "position": "Systems Support Assistant 1",
+      "position": "Graduate Research Assistant",
       "website": "https://ssri.manoa.hawaii.edu/tasi-phidc/",
       "highlights": [
-          "Entry Level IT , R, Data Science, Database, Health Care"
+          "Cyber Security, Database, Healthcare",
+    },
+    {
+     "company": "Telecommunications and Social Informatics Program (TASI)",
+      "startDate": "2020-03-15",
+      "endDate": "May 2021",
+      "position": "Systems Support Assistant I",
+      "website": "https://ssri.manoa.hawaii.edu/tasi-phidc/",
+      "highlights": [
+          "Entry Level IT, R, Data Science, Database, Health Care",
         ]
     },
   ],
