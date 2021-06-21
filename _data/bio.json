@@ -111,7 +111,7 @@
       },
     ],
     "courses": [ 
-      {
+  
         "EE 491F - Software Reverse Engineering",
         "EE  406 - Intro to Computer & Network Security",
         "ICS 451 - Data Networks",
@@ -129,6 +129,7 @@
         "ICS 211 - Introduction to Computer Science II",
         "ICS 141 - Discrete Mathematics for Computer Science I",
         "ICS 111 - Introduction to Computer Science I",
+      ]
     },
   ],
   "work": [
@@ -141,9 +142,8 @@
       "highlights": [
           "Cyber Security, Database, Healthcare",
         ]
-    },
-    {
-     "company": "Telecommunications and Social Informatics Program (TASI)",
+      
+      "company": "Telecommunications and Social Informatics Program (TASI)",
       "startDate": "2020-03-15",
       "endDate": "May 2021",
       "position": "Systems Support Assistant I",
